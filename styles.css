@@ -1,0 +1,66 @@
+td {
+    border-bottom: 1px solid #ddd;
+}
+
+#information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: top left;
+    border: 10px inset;
+    padding: 20;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+
+
+}
+
+form {
+    padding-bottom: 10px;
+}
+
+* {
+    font-family: Open Sans, Helvetica;
+}
+
+h3 {
+    font-weight: normal;
+    margin-top: 0;
+    border-bottom: 1px solid #ddd;
+    min-height: 1.17em;
+}
+
+
+.spritediv {
+    height: 200px;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sprite {
+    height: 250px;
+    width: 250px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: inherit;
+}
+
+body {
+    background-color: #002349;
+}
+
+div {
+    background-color: white;
+}
